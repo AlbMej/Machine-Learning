@@ -1,2 +1,0 @@
-# Image Classification Using Pytorch
-
